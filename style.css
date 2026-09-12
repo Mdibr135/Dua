@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "KFGQPCNastaleeq";
+  src:
+  url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.woff2") format("woff2"),
+  url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+
+
 /* Сброс базовых отступов */
         * {
             margin: 0;
