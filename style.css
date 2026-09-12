@@ -12,7 +12,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, "KFGQPCNastaleeq", sans-serif;
     background-color: #f4f6f9;
     color: #333;
     line-height: 1.6;
@@ -96,7 +96,7 @@ body {
 .quran-text p {
     color: #64748b;
     font-size: 27px;
-    font-family: 'KFGQPCNastaleeq';
+    font-family: "KFGQPCNastaleeq";
     direction: rtl;
     margin-bottom: 20px; /* Отступ снизу */
     border-bottom: 1px solid #ccc;
