@@ -1,9 +1,9 @@
 @font-face {
-	font-family: "KFGQPCNastaleeq";
-	src:
-		url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.woff2") format("woff2"),
-		url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.ttf") format("truetype");
-	font-display: swap;
+    font-family: "KFGQPCNastaleeq";
+    src:
+    url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.woff2") format("woff2"),
+    url("https://quranfonts.com/fonts/KFGQPC Nastaleeq/KFGQPCNastaleeq-Regular.ttf") format("truetype");
+    font-display: swap;
 }
 /* Сброс базовых отступов */
 * {
@@ -19,7 +19,7 @@ body {
 }
 /* Навигационное меню */
 .navbar {
-	background-color: #1e293b;
+    background-color: #1e293b;
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
@@ -78,9 +78,9 @@ body {
 .card p {
     color: #64748b;
     font-size: 18px;
-	margin-bottom: 20px; /* Отступ снизу */
-	border-bottom: 1px solid #ccc;
-	border-top: 1px solid #ccc;
+    margin-bottom: 20px; /* Отступ снизу */
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
 }
 .quran-text {
     background-color: #ffffff;
@@ -96,11 +96,11 @@ body {
 .quran-text p {
     color: #64748b;
     font-size: 27px;
-	font-family: 'KFGQPCNastaleeq';
-	direction: rtl;
-	margin-bottom: 20px; /* Отступ снизу */
-	border-bottom: 1px solid #ccc;
-	border-top: 1px solid #ccc;
+    font-family: 'KFGQPCNastaleeq';
+    direction: rtl;
+    margin-bottom: 20px; /* Отступ снизу */
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
 }
 /* Адаптивность для мобильных устройств */
 @media (max-width: 768px) {
